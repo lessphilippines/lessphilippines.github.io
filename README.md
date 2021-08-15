@@ -15,3 +15,4 @@ LeSS Meetup Philippines
 | #9     | 2021-05-12 | [Continuous Improvement Towards Perfection (LeSS Principles Series)](https://lessphilippines.org/talks/009/continuous-improvement-towards-perfection) |
 | #10    | 2021-06-09 | [Systems Thinking (LeSS Principles Series)](https://lessphilippines.org/talks/010/systems-thinking) |
 | #11    | 2021-07-14 | [Whole Product Focus (LeSS Principles Series)](https://lessphilippines.org/talks/011/whole-product-focus) |
+| #12    | 2021-08-11 | [Queueing Theory (LeSS Principles Series)](https://lessphilippines.org/talks/012/queueing-theory) |
