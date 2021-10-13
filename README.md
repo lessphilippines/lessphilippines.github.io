@@ -17,3 +17,4 @@ LeSS Meetup Philippines
 | #11    | 2021-07-14 | [Whole Product Focus (LeSS Principles Series)](https://lessphilippines.org/talks/011/whole-product-focus) |
 | #12    | 2021-08-11 | [Queueing Theory (LeSS Principles Series)](https://lessphilippines.org/talks/012/queueing-theory) |
 | #13    | 2021-09-08 | [Customer Centric (LeSS Principles Series)](https://lessphilippines.org/talks/013/customer-centric) |
+| #14    | 2021-10-13 | [Transparency (LeSS Principles Series)](https://lessphilippines.org/talks/014/transparency) |
